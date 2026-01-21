@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class StudentGradeTracker {
+public class  codealpha_StudentGradeTracker {
 
     public static void main(String[] args) {
 
